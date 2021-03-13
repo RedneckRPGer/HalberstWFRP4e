@@ -10,28 +10,28 @@
     {
       "name": "items",
       "label": "Halberst Items",
-      "path": "packs/halberst-items.db",
+      "path": "/packs/halberst-items.db",
       "entity": "Item",
       "module": "Halberst"
     },
     {
       "name": "actors",
       "label": "Halberst Actors",
-      "path": "packs/halberst-actors.db",
+      "path": "/packs/halberst-actors.db",
       "entity": "Actor",
       "module": "Halberst"
     },
     {
       "name": "scenes",
       "label": "Halberst Scenes",
-      "path": "packs/halberst-scenes.db",
+      "path": "/packs/halberst-scenes.db",
       "entity": "Scene",
       "module": "Halberst"
     },
     {
       "name": "journal-entries",
       "label": "Halberst Journal Entries",
-      "path": "packs/halberst-journal-entries.db",
+      "path": "/packs/halberst-journal-entries.db",
       "entity": "JournalEntry",
       "module": "Halberst"
     }
