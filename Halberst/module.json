@@ -1,0 +1,45 @@
+{   
+   "name": "wfrp4e-halberst-town",   
+   "title": "Halberst",   
+   "description": "A Town setting for WFRP. 
+                   Requires: Moo Man's Warhammer Fantasy Roleplay 4th Edition Game System.
+                   Requires: GM Notes module, by Felix#6196,  https://github.com/syl3r86/gm-notes
+                   Requires: poi-teleporter, zeel01, https://github.com/zeel01/poi-teleport", 
+   "version": "0.1.0",  
+   "author": "Red#1828 on Discord",
+   "packs": [
+    {
+      "name": "items",
+      "label": "Halberst Items",
+      "path": "/packs/halberst-items.db",
+      "entity": "Item",
+      "module": "wfrp4e-halberst-town"
+    },
+    {
+      "name": "actors",
+      "label": "Halberst Actors",
+      "path": "/packs/halberst-actors.db",
+      "entity": "Actor",
+      "module": "wfrp4e-halberst-town"
+    },
+    {
+      "name": "scenes",
+      "label": "Halberst Scenes",
+      "path": "/packs/halberst-scenes.db",
+      "entity": "Scene",
+      "module": "wfrp4e-halberst-town"
+    },
+    {
+      "name": "journal-entries",
+      "label": "Halberst Journal Entries",
+      "path": "/packs/halberst-journal-entries.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-halberst-town"
+    }
+  ],
+  "minimumCoreVersion": "0.7.4",
+  "compatibleCoreVersion":"0.7.8",
+  "url": "https://github.com/RedneckRPGer/HalberstWFRP4e",
+  "manifest": "https://github.com/RedneckRPGer/HalberstWFRP4e/blob/main/Halberst/Module.json",
+  "download": "https://github.com/RedneckRPGer/HalberstWFRP4e/archive/main.zip"
+ }
