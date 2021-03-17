@@ -1,5 +1,5 @@
 {   
-   "name": "wfrp4e-halberst-town",   
+   "name": "halberst",   
    "title": "Halberst",   
    "description": "A Town setting for WFRP. 
                    Requires: Moo Man's Warhammer Fantasy Roleplay 4th Edition Game System.
@@ -13,28 +13,28 @@
       "label": "Halberst Items",
       "path": "/packs/halberst-items.db",
       "entity": "Item",
-      "module": "wfrp4e-halberst-town"
+      "module": "halberst"
     },
     {
       "name": "actors",
       "label": "Halberst Actors",
       "path": "/packs/halberst-actors.db",
       "entity": "Actor",
-      "module": "wfrp4e-halberst-town"
+      "module": "halberst"
     },
     {
       "name": "scenes",
       "label": "Halberst Scenes",
       "path": "/packs/halberst-scenes.db",
       "entity": "Scene",
-      "module": "wfrp4e-halberst-town"
+      "module": "halberst"
     },
     {
       "name": "journal-entries",
       "label": "Halberst Journal Entries",
       "path": "/packs/halberst-journal-entries.db",
       "entity": "JournalEntry",
-      "module": "wfrp4e-halberst-town"
+      "module": "halberst"
     }
   ],
   "minimumCoreVersion": "0.7.4",
