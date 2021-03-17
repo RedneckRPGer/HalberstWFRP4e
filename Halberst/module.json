@@ -5,28 +5,28 @@
 	"version": "0.1.0",
 	"author": "Red#1828 on Discord ",
 	"packs": [{
-			"name": "items",
+			"name": "halberst-items",
 			"label": "Halberst Items",
 			"path": "/packs/halberst-items.db",
 			"entity": "Item",
 			"module": "halberst"
 		},
 		{
-			"name": "actors",
+			"name": "halberst-actors",
 			"label": "Halberst Actors",
 			"path": "/packs/halberst-actors.db",
 			"entity": "Actor",
 			"module": "halberst"
 		},
 		{
-			"name": "scenes",
+			"name": "halberst-scenes",
 			"label": "Halberst Scenes",
 			"path": "/packs/halberst-scenes.db",
 			"entity": "Scene",
 			"module": "halberst"
 		},
 		{
-			"name": "journal-entries",
+			"name": "halberst-journal-entries",
 			"label": "Halberst Journal Entries",
 			"path": "/packs/halberst-journal-entries.db",
 			"entity": "JournalEntry",
@@ -34,7 +34,7 @@
 		}
 	],
 	"minimumCoreVersion": "0.7.4",
-	"compatibleCoreVersion": "0.7.8",
+	"compatibleCoreVersion": "0.7.9",
 	"url": "https://github.com/RedneckRPGer/HalberstWFRP4e",
 	"manifest": "https://github.com/RedneckRPGer/HalberstWFRP4e/blob/main/Halberst/Module.json",
 	"download": "https://github.com/RedneckRPGer/HalberstWFRP4e/archive/main.zip"
